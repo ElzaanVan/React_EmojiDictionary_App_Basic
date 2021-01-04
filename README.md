@@ -1,0 +1,2 @@
+# React_EmojiDictionary_App_Basic
+Created with CodeSandbox
